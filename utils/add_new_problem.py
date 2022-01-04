@@ -138,6 +138,9 @@ def get_problem_information():
     id = get_tag_value('<strong>Problem ID: </strong>', "<", page_data)
     difficulty_prefix = '<strong>Difficulty:  </strong><span>'
     difficulty = get_tag_value(difficulty_prefix, "<", page_data)
+    # If difficulty value is a range like 1.1-1.3, take the first value
+    if "-" in difficulty:
+        difficulty = difficulty.split("-")[0]
     source_link = get_tag_value('<strong>Source:</strong>', '/a>', page_data)
     source = get_tag_value('">', "<", source_link)
     return {
