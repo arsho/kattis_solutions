@@ -15,5 +15,6 @@ The challenges are sorted by the difficulty score.
 | [Two-sum](https://open.kattis.com/problems/twosum) | Principles of Algorithmic Problem Solving | 1.3 | [Solution](solutions/twosum) |
 | [Help a PhD candidate out!](https://open.kattis.com/problems/helpaphd) | Nordic Collegiate Programming Contest (NCPC) 2010 | 1.4 | [Solution](solutions/helpaphd) |
 | [Aaah!](https://open.kattis.com/problems/aaah) | Nordic Collegiate Programming Contest (NCPC) 2012 | 1.6 | [Solution](solutions/aaah) |
+| [ABC](https://open.kattis.com/problems/abc) | Croatian Open Competition in Informatics 2006/2007, contest #2 | 1.8 | [Solution](solutions/abc) |
 | [Above Average](https://open.kattis.com/problems/aboveaverage) | Waterloo Programming Contest 2002-09-28 | 2.1 | [Solution](solutions/aboveaverage) |
 | [3D Printed Statues](https://open.kattis.com/problems/3dprinter) | KTH Challenge 2017 | 2.2 | [Solution](solutions/3dprinter) |
