@@ -20,7 +20,11 @@ The challenges are sorted by the difficulty score.
 | [Add Two Numbers](https://open.kattis.com/problems/addtwonumbers) | Kattis | 1.4 | [Solution](solutions/addtwonumbers) |
 | [ACM Contest Scoring](https://open.kattis.com/problems/acm) | 2015 ICPC Mid-Central Regional | 1.5 | [Solution](solutions/acm) |
 | [Speed Limit](https://open.kattis.com/problems/speedlimit) | 2004 ACM ICPC Mid-Central North American Regional Contest | 1.5 | [Solution](solutions/speedlimit) |
+| [Simon Says](https://open.kattis.com/problems/simonsays) | 2015 ICPC North American Qualifier Contest | 1.5 | [Solution](solutions/simonsays) |
+| [Skocimis](https://open.kattis.com/problems/skocimis) | Croatian Open Competition in Informatics 2008/2009, contest #1 | 1.5 | [Solution](solutions/skocimis) |
+| [Railroad](https://open.kattis.com/problems/railroad2) | 2016 Virginia Tech High School Programming Contest | 1.5 | [Solution](solutions/railroad2) |
 | [Aaah!](https://open.kattis.com/problems/aaah) | Nordic Collegiate Programming Contest (NCPC) 2012 | 1.6 | [Solution](solutions/aaah) |
 | [ABC](https://open.kattis.com/problems/abc) | Croatian Open Competition in Informatics 2006/2007, contest #2 | 1.8 | [Solution](solutions/abc) |
 | [Above Average](https://open.kattis.com/problems/aboveaverage) | Waterloo Programming Contest 2002-09-28 | 2.1 | [Solution](solutions/aboveaverage) |
 | [3D Printed Statues](https://open.kattis.com/problems/3dprinter) | KTH Challenge 2017 | 2.2 | [Solution](solutions/3dprinter) |
+| [A Different Problem](https://open.kattis.com/problems/different) | Kattis | 2.4 | [Solution](solutions/different) |
