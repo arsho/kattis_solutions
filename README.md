@@ -31,4 +31,5 @@ The challenges are sorted by the difficulty score.
 | [Above Average](https://open.kattis.com/problems/aboveaverage) | Waterloo Programming Contest 2002-09-28 | 2.1 | [Solution](solutions/aboveaverage) |
 | [Warehouse](https://open.kattis.com/problems/warehouse) | 2018 ICPC South Central USA Regional Contest | 2.1 | [Solution](solutions/warehouse) |
 | [3D Printed Statues](https://open.kattis.com/problems/3dprinter) | KTH Challenge 2017 | 2.2 | [Solution](solutions/3dprinter) |
+| [Damaged Equation](https://open.kattis.com/problems/damagedequation) | IDI Open 2021 | 2.2 | [Solution](solutions/damagedequation) |
 | [A Different Problem](https://open.kattis.com/problems/different) | Kattis | 2.4 | [Solution](solutions/different) |
