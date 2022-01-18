@@ -28,6 +28,7 @@ The challenges are sorted by the difficulty score.
 | [Kemija](https://open.kattis.com/problems/kemija08) | Croatian Open Competition in Informatics 2008/2009, contest #3 | 1.5 | [Solution](solutions/kemija08) |
 | [Aaah!](https://open.kattis.com/problems/aaah) | Nordic Collegiate Programming Contest (NCPC) 2012 | 1.6 | [Solution](solutions/aaah) |
 | [ABC](https://open.kattis.com/problems/abc) | Croatian Open Competition in Informatics 2006/2007, contest #2 | 1.8 | [Solution](solutions/abc) |
+| [Statistics](https://open.kattis.com/problems/statistics) | International Collegiate Programming Contest (ACM-ICPC) Dress Rehearsal 2012 | 2.0 | [Solution](solutions/statistics) |
 | [Above Average](https://open.kattis.com/problems/aboveaverage) | Waterloo Programming Contest 2002-09-28 | 2.1 | [Solution](solutions/aboveaverage) |
 | [Warehouse](https://open.kattis.com/problems/warehouse) | 2018 ICPC South Central USA Regional Contest | 2.1 | [Solution](solutions/warehouse) |
 | [3D Printed Statues](https://open.kattis.com/problems/3dprinter) | KTH Challenge 2017 | 2.2 | [Solution](solutions/3dprinter) |
