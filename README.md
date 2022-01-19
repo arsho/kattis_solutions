@@ -18,6 +18,7 @@ The challenges are sorted by the difficulty score.
 | [Bijele](https://open.kattis.com/problems/bijele) | Croatian Open Competition in Informatics 2007/2008, contest #2 | 1.3 | [Solution](solutions/bijele) |
 | [Solving for Carrots](https://open.kattis.com/problems/carrots) | KTH Training | 1.3 | [Solution](solutions/carrots) |
 | [Pet](https://open.kattis.com/problems/pet) | Croatian Open Competition in Informatics 2008/2009, contest #3 | 1.3 | [Solution](solutions/pet) |
+| [Ladder](https://open.kattis.com/problems/ladder) | Spotify Challenge 2010 | 1.3 | [Solution](solutions/ladder) |
 | [Help a PhD candidate out!](https://open.kattis.com/problems/helpaphd) | Nordic Collegiate Programming Contest (NCPC) 2010 | 1.4 | [Solution](solutions/helpaphd) |
 | [Add Two Numbers](https://open.kattis.com/problems/addtwonumbers) | Kattis | 1.4 | [Solution](solutions/addtwonumbers) |
 | [ACM Contest Scoring](https://open.kattis.com/problems/acm) | 2015 ICPC Mid-Central Regional | 1.5 | [Solution](solutions/acm) |
