@@ -21,6 +21,7 @@ The challenges are sorted by the difficulty score.
 | [Ladder](https://open.kattis.com/problems/ladder) | Spotify Challenge 2010 | 1.3 | [Solution](solutions/ladder) |
 | [Help a PhD candidate out!](https://open.kattis.com/problems/helpaphd) | Nordic Collegiate Programming Contest (NCPC) 2010 | 1.4 | [Solution](solutions/helpaphd) |
 | [Add Two Numbers](https://open.kattis.com/problems/addtwonumbers) | Kattis | 1.4 | [Solution](solutions/addtwonumbers) |
+| [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) | Northwestern Europe Regional Contest (NWERC) 2014 Practice Session | 1.4 | [Solution](solutions/alphabetspam) |
 | [ACM Contest Scoring](https://open.kattis.com/problems/acm) | 2015 ICPC Mid-Central Regional | 1.5 | [Solution](solutions/acm) |
 | [Speed Limit](https://open.kattis.com/problems/speedlimit) | 2004 ACM ICPC Mid-Central North American Regional Contest | 1.5 | [Solution](solutions/speedlimit) |
 | [Simon Says](https://open.kattis.com/problems/simonsays) | 2015 ICPC North American Qualifier Contest | 1.5 | [Solution](solutions/simonsays) |
